@@ -1,0 +1,16 @@
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.ConsoleUi.exe.config
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.ConsoleUi.exe
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.ConsoleUi.pdb
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.Entity.dll
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.Repo.dll
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.Data.dll
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EntityFramework.dll
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.Entity.pdb
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.Repo.pdb
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EfDemo.Data.pdb
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EntityFramework.xml
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\obj\Debug\EfDemo.ConsoleUi.csprojResolveAssemblyReference.cache
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\obj\Debug\EfDemo.ConsoleUi.exe
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\obj\Debug\EfDemo.ConsoleUi.pdb
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.ConsoleUi\bin\Debug\EntityFramework.SqlServer.xml
