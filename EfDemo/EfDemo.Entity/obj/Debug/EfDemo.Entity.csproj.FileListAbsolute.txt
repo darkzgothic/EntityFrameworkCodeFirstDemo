@@ -1,5 +1,4 @@
-c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.Entity\bin\Debug\EfDemo.Entity.dll
-c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.Entity\bin\Debug\EfDemo.Entity.pdb
-c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.Entity\obj\Debug\EfDemo.Entity.csprojResolveAssemblyReference.cache
-c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.Entity\obj\Debug\EfDemo.Entity.dll
-c:\users\msz\documents\visual studio 2015\Projects\EfDemo\EfDemo.Entity\obj\Debug\EfDemo.Entity.pdb
+C:\Users\MSZ\Documents\Visual Studio 2015\Projects\EfDemo\EfDemo.Entity\bin\Debug\EfDemo.Entity.dll
+C:\Users\MSZ\Documents\Visual Studio 2015\Projects\EfDemo\EfDemo.Entity\bin\Debug\EfDemo.Entity.pdb
+C:\Users\MSZ\Documents\Visual Studio 2015\Projects\EfDemo\EfDemo.Entity\obj\Debug\EfDemo.Entity.dll
+C:\Users\MSZ\Documents\Visual Studio 2015\Projects\EfDemo\EfDemo.Entity\obj\Debug\EfDemo.Entity.pdb

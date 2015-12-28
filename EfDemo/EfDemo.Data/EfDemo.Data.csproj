@@ -51,9 +51,9 @@
   <ItemGroup>
     <Compile Include="EfDemoContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentContext.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
